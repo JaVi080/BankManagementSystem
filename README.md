@@ -24,10 +24,10 @@ Data has been stored in Serialized form by Implemeting Serializable Interface
 <img src="Output_Images/1st.png" width="600">
 
 ### After Sign In Acc to the ID and Ur password--Money DEposit then Checking Balance<br>
-   <img src="Output_Images/2nd.png" width="600">
+   <img src="Output_Images/2nd.png" width="500">
    
 Withdrwal->Money then Chacking the Balance<br>
-    <img src="Output_Images/3rd.png" width="600"> 
+    <img src="Output_Images/3rd.png" width="500"> 
     
 Transation Details Acc to Time<br>
    <img src="Output_Images/4th.png" width="600">  
