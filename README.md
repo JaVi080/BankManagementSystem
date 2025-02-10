@@ -19,12 +19,15 @@ CurrentAccount Class --> (Inherited BankAccount Class ) 2 methods are overriden 
 SavingsAccount Class --> (Inherited BankAccount Class ) same like CurrentAccount Class --that 2 methods are also overriden here for Limited Transactions
 Compartor has been used for Assorting in reverse Order acc to Time (In Transaction Details)
 Data has been stored in Serialized form by Implemeting Serializable Interface
-### The OUTPUT SCREENSHOTS :
+## The OUTPUT SCREENSHOTS :
+### Sign In
 <img src="Output_Images/1st.png" width="600">
-
+### After Sign In Acc to the ID and Ur password--Money DEposit then Checking Balance
    <img src="Output_Images/2nd.png" width="600">
-![After Sign In Acc to the ID and Ur password--Money DEposit then Checking Balance](Output_Images/2nd.png)
-   ![Withdrwal->Money then Chacking the Balance](Output_Images/3rd.png)
-   ![Transation Details Acc to Time](Output_Images/4th.png)
-   ![Accunt Details](Output_Images/5th.png)
+   ### Withdrwal->Money then Chacking the Balance
+    <img src="Output_Images/3nd.png" width="600">    
+   ### Transation Details Acc to Time
+    <img src="Output_Images/4th.png" width="600">  
+   ### Accunt Details
+    <img src="Output_Images/5th.png" width="600">
 
