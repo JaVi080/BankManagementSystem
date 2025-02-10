@@ -22,13 +22,16 @@ Data has been stored in Serialized form by Implemeting Serializable Interface
 ## The OUTPUT SCREENSHOTS :
 ### Sign In
 <img src="Output_Images/1st.png" width="600">
-### After Sign In Acc to the ID and Ur password--Money DEposit then Checking Balance
+
+**After Sign In Acc to the ID and Ur password--Money DEposit then Checking Balance**
    <img src="Output_Images/2nd.png" width="600">
    
-   ### Withdrwal->Money then Chacking the Balance
-    <img src="Output_Images/3rd.png" width="600">    
-   ### Transation Details Acc to Time
+   **Withdrwal->Money then Chacking the Balance**
+    <img src="Output_Images/3rd.png" width="600"> 
+    
+   **Transation Details Acc to Time**
     <img src="Output_Images/4th.png" width="600">  
-   ### Accunt Details
+    
+   **Accunt Details**
     <img src="Output_Images/5th.png" width="600">
 
